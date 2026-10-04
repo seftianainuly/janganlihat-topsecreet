@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <defs>
+    <linearGradient id="background" x1="74" y1="42" x2="714" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF0FF"/>
+      <stop offset="1" stop-color="#E7E9F7"/>
+    </linearGradient>
+    <linearGradient id="device" x1="341" y1="116" x2="460" y2="337" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6258DD"/>
+      <stop offset="1" stop-color="#8179EC"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#background)" d="M0 0h800v450H0z"/>
+  <circle cx="112" cy="96" r="68" fill="#fff" fill-opacity=".45"/>
+  <circle cx="704" cy="375" r="112" fill="#D8D6FF" fill-opacity=".5"/>
+  <rect x="342" y="105" width="116" height="240" rx="20" fill="url(#device)"/>
+  <rect x="351" y="123" width="98" height="196" rx="11" fill="#fff" fill-opacity=".94"/>
+  <circle cx="400" cy="332" r="5" fill="#fff" fill-opacity=".8"/>
+  <path d="M374 178h52M374 194h36" stroke="#C7C4FA" stroke-linecap="round" stroke-width="8"/>
+  <rect x="374" y="218" width="52" height="68" rx="8" fill="#F1F0FF"/>
+</svg>
